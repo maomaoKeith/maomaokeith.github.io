@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "You Yi"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Student in Master of Architectural Conservation"
   location         : "CN, SG"
-  employer         : "National University of Singapore"
+  employer         : "NUS"
   uri              : # URL
   email            : "youyi@u.nus.edu" 
 
