@@ -13,4 +13,4 @@ redirect_from:
 
 2019.09-2024.07  Beijing Jiaotong University, undergraduate program in Urban and Rural Planning
 
-You can find my CV here:[You Yi's Curriculun Vitae](../assets/CV-YOU YI.pdf)
+You can find my CV here:[You Yi's Curriculun Vitae](../assets/Curriculum_Vitae.pdf)
